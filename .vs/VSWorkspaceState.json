@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Flyweight",
-    "\\Observer"
+    "\\Observer",
+    "\\Observer\\Observer"
   ],
-  "SelectedNode": "\\Flyweight\\Debug",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
