@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Flyweight",
+    "\\Observer"
   ],
+  "SelectedNode": "\\Flyweight\\Debug",
   "PreviewInSolutionExplorer": false
 }
